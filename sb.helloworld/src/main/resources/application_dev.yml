@@ -1,0 +1,5 @@
+jdbc:
+	driver-class-name: com.mysql.jdbc.Driver
+	url: jdbc:mysql://10.204.105.165:1523/FSPLH2
+    username: FSP_EAS
+    password: 123456
